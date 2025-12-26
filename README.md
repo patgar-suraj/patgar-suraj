@@ -1,5 +1,6 @@
-<h2 align="left">Hi there, I'm Suraj Patgar! 👋
-I am a Frontend Developer passionate about creating interactive and user-friendly web interfaces. After mastering the frontend, I am now diving deep into Backend Development to build robust, end-to-end applications.
+<h2 align="left">👋Hi there, I'm Suraj Patgar! </h2>
+<span>
+  I am a Frontend Developer passionate about creating interactive and user-friendly web interfaces. After mastering the frontend, I am now diving deep into Backend Development to build robust, end-to-end applications.
 
 🔭 Current Focus: Strengthening my Frontend skills while building my first set of APIs.
 
@@ -7,7 +8,8 @@ I am a Frontend Developer passionate about creating interactive and user-friendl
 
 ⚡ Goal: To become a proficient Full-Stack Developer.
 
-💬 Let's Connect: I'm always open to discussing web tech and collaboration!</h2>
+💬 Let's Connect: I'm always open to discussing web tech and collaboration!
+</span>
 
 ###
 
