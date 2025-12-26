@@ -1,4 +1,13 @@
-<h2 align="left">Hi 👋! My name is Suraj and I'm a web-developer</h2>
+<h2 align="left">Hi there, I'm Suraj Patgar! 👋
+I am a Frontend Developer passionate about creating interactive and user-friendly web interfaces. After mastering the frontend, I am now diving deep into Backend Development to build robust, end-to-end applications.
+
+🔭 Current Focus: Strengthening my Frontend skills while building my first set of APIs.
+
+🌱 Learning: Node.js, Express, and MongoDB.
+
+⚡ Goal: To become a proficient Full-Stack Developer.
+
+💬 Let's Connect: I'm always open to discussing web tech and collaboration!</h2>
 
 ###
 
