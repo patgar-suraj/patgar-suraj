@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"  />
 
 ###
 
