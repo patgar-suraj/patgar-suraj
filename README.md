@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/patgar-suraj/patgar-suraj/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/patgar-suraj/patgar-suraj/output/github-contribution-grid-snake-dark.svg)
 
 ###
